@@ -1,5 +1,5 @@
 # logparser
-A Java CLI tool that parses web server access log file, loads the log to MySQL and checks if a given IP makes more than a certain number of requests for the given duration. (Java Spring boot, SQL, JPA))
+A Java CLI tool that parses web server access log file, loads the log to MySQL and checks if a given IP makes more than a certain number of requests for the given duration. (Java Spring boot, SQL, JPA)
 
 The goal is to write a parser in Java that parses web server access log file, loads the log to MySQL and checks if a given IP makes more than a certain number of requests for the given duration. 
 
